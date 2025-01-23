@@ -1,1 +1,2 @@
 # E-commerce-App
+An e-commerce app using JEE, Java Servlets, and JSP provides a robust platform for online shopping. Servlets handle backend logic, including user authentication and order processing, while JSPs manage dynamic content generation for the user interface. Together, they enable features like product browsing, cart management, and secure transactions. This architecture ensures scalability, maintainability, and a seamless shopping experience.
